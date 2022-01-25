@@ -4,6 +4,15 @@
 An open source table editor based on Qt.
 
 
+## Projects
+
+- [tabelo-qt](https://github.com/tabeloapp/tabelo-qt)  
+  An open source table editor based on Qt.
+
+- [tabelo-qtpy](https://github.com/tabeloapp/tabelo-qtpy)  
+  An open source table editor based on QtPy.
+
+
 ## Copyright
 
 Copyright &copy; 2022 [naracanto](https://naracanto.com).
