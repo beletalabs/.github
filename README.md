@@ -1,16 +1,16 @@
 
 # Tabelo
 
-An open source table editor based on Qt.
+Open source table editors based on Qt.
 
 
-## Projects
+## Applications
 
 - [tabelo-qt](https://github.com/tabeloapp/tabelo-qt)  
-  An open source table editor based on Qt.
+  An open source table editor written in C++ using the Qt framework.
 
 - [tabelo-qtpy](https://github.com/tabeloapp/tabelo-qtpy)  
-  An open source table editor based on QtPy.
+  An open source table editor written in Python using the Python bindings for the Qt framework.
 
 
 ## Copyright
