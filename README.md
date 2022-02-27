@@ -1,5 +1,5 @@
 
-# Tabelo
+# Tabelo Labs
 
 Open source table editors based on Qt.
 
