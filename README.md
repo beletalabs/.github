@@ -16,7 +16,7 @@ Open source table editors based on Qt.
 
 ## Copyright
 
-Copyright &copy; 2022 [naracanto](https://naracanto.com).
+Copyright &copy; 2022 [naracanto](https://naracanto.github.io). All rights reserved.
 
 
 ## License
