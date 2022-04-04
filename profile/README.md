@@ -8,7 +8,7 @@ Open source software based on Qt.
 
 Right now, we are working on:
 
-- [Tabelo](https://github.com/cutelabs/tabelo)  
+- [KTabelo](https://github.com/cutelabs/ktabelo)  
   A table editor written in C++ using the Qt and KDE frameworks.
 - [Tabelo-Qt](https://github.com/cutelabs/tabelo-qt)  
   A table editor written in C++ using the Qt framework.
