@@ -1,5 +1,5 @@
 
-# Tabelo Labs
+# Cute Labs
 
 Open source software based on Qt.
 
