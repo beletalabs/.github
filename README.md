@@ -10,7 +10,7 @@ Open source software based on Qt.
   A table editor written in C++ using the Qt and KDE frameworks.
 - [QTabelo](https://github.com/cutelabs/qtabelo)  
   A table editor written in C++ using the Qt framework.
-- [Tabelo-QtPy](https://github.com/cutelabs/tabelo-qtpy)  
+- [PyTabelo](https://github.com/cutelabs/pytabelo)  
   A table editor written in Python using the Python bindings for the Qt framework.
 
 
