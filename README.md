@@ -1,16 +1,16 @@
 
-# Cute Labs
+# Beleta Labs
 
 Open source software based on Qt.
 
 
 ## Applications
 
-- [KTabelo](https://github.com/cutelabs/ktabelo)  
+- [KTabelo](https://github.com/beletalabs/ktabelo)
   A table editor written in C++ using the Qt and KDE frameworks.
-- [QTabelo](https://github.com/cutelabs/qtabelo)  
+- [QTabelo](https://github.com/beletalabs/qtabelo)
   A table editor written in C++ using the Qt framework.
-- [PyTabelo](https://github.com/cutelabs/pytabelo)  
+- [PyTabelo](https://github.com/beletalabs/pytabelo)
   A table editor written in Python using the Python bindings for the Qt framework.
 
 
